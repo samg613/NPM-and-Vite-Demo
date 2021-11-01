@@ -8,8 +8,5 @@
   },
   "devDependencies": {
     "vite": "^2.6.4"
-  },
-  "dependencies": {
-    "aos": "^2.3.4"
   }
 }
